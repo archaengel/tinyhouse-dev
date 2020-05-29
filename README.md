@@ -1,6 +1,4 @@
-# Project Title
-
-Tinyhouse
+# Tinyhouse Development
 
 ![](public/assets/demo-screenshot.png)
 
