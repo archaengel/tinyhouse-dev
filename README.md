@@ -66,3 +66,19 @@ REACT_APP_S_CLIENT_ID=<your_stripe_client_id>
 # Cloudinary Environment Varibales
 
 ## Usage <a name = "usage"></a>
+
+While developing, you will likely want to seed your app with mock data. To seed your database, in the `server` folder, run:
+
+```bash
+npm run seed
+```
+
+When you get the success messages, press `^C` to exit.
+
+It may be useful at times to clear the database. To do so, in the `server` folder, run:
+
+```bash
+npm run clear
+```
+
+When you get the success messages, press `^C` to exit.
