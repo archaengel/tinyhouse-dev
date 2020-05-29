@@ -2,6 +2,8 @@
 
 Tinyhouse
 
+![](public/assets/demo-screenshot.png)
+
 ## Table of Contents
 
 - [About](#about)
