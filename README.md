@@ -10,9 +10,9 @@
 
 ## About <a name = "about"></a>
 
-A demo of the site is available at [https://tinyhouse-1134.herokuapp.com/](https://tinyhouse-1134.herokuapp.com/)
+A demo of the site is available [here](https://tinyhouse-1134.herokuapp.com/).
 
-This is the development repository for Tinyhouse, a rental marketplace built with [React](https://reactjs.org/), [TypeScript](https://www.typescriptlang.org/), [Node](https://nodejs.org/en/), [GraphQL](https://graphql.org/), and [MongoDB](https://www.mongodb.com/), and deployed on [Heroku](https://www.heroku.com/). The deployment repository for this project is available [here](https://github.com/archaengel/tinyhouse-1134)
+This is the development repository for Tinyhouse, a rental marketplace built with [React](https://reactjs.org/), [TypeScript](https://www.typescriptlang.org/), [Node](https://nodejs.org/en/), [GraphQL](https://graphql.org/), and [MongoDB](https://www.mongodb.com/), and deployed on [Heroku](https://www.heroku.com/). The deployment repository for this project is available [here](https://github.com/archaengel/tinyhouse-1134).
 
 The documentation for this repository is still being written.
 
